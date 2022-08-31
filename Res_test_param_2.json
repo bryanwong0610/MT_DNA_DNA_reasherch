@@ -1,0 +1,60 @@
+{
+  "annovar_db": {
+    "class": "Directory",
+    "path": "/mnt/datashare/annovar_db/humandb"
+  },
+  "output": [
+    "P31",
+    "P32",
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37",
+    "P38",
+    "P39",
+    "P4"
+  ],
+  "vcf_gz": [
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P31/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap23-19R50827.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P32/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap19-19R50828.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P33/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap109-19R50829.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P34/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap21-19R50830.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P35/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap90-19R50831.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P36/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap75-19R50832.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P37/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap01-19R50833.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P38/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap87-19R50834.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P39/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap95-19R50835.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_test/P4/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap38-19R50802.raw.vcf.gz"
+    }
+  ]
+}

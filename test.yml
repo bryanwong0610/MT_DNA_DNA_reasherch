@@ -1,0 +1,45 @@
+annovar_db:
+  class: Directory
+  path: /mnt/datashare/annovar_db/humandb
+output:
+  - 08H
+  - 08H-1
+  - C1
+  - C12
+  - C13
+  - C14
+  - C15
+  - C16
+  - C17
+  - C2
+vcf_gz:
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/08H/Nova423-BJ0W19X52JX-19X31001-T033-BA-20191125cap68-19R50910.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/08H-1/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap33-19R50911.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C1/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap89-19R50855.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C12/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap31-19R50863.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C13/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap25-19R50864.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C14/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap63-19R50865.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C15/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap20-19R50866.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C16/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap29-19R50867.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C17/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap22-19R50868.raw.vcf.gz
+  - class: File
+    path: >-
+        /mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C2/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap99-19R50856.raw.vcf.gz

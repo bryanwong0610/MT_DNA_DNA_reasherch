@@ -1,0 +1,30 @@
+{
+  "annovar_db": {
+    "class": "Directory",
+    "path": "/mnt/datashare/annovar_db/humandb"
+  },
+  "output": [
+    "R1",
+    "R2",
+    "R3",
+    "R4"
+  ],
+  "vcf_gz": [
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_replicated/R1/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap72-19R50851.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_replicated/R2/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap73-19R50852.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_replicated/R3/Nova423-BJ0W19X52JX-19X31001-T033-CA-20191125cap104-19R50853.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_replicated/R4/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap78-19R50854.raw.vcf.gz"
+    }
+  ]
+}

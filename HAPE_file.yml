@@ -1,0 +1,43 @@
+ref_version: "hg19"
+splicing_threshold: 10
+hpoIds:
+  [
+  'HP:0012418',
+  'HP:0012103',
+  'HP:0500165',
+  'HP:0100598'
+]
+raw_vcf:
+  class: File
+  path: '/mnt/datashare/home/wangzesong/HAPE/.bwa.raw.snps.indels.HaplotypeCaller.vcf'
+maf_cutoff: 0.01
+maf_database:
+  [
+    '1000G_ALL',
+    '1000G_EAS',
+    'ExAC_ALL',
+    'ExAC_EAS',
+    'ESP6500siv2_ALL',
+    'ESP6500siv2_EA',
+    'AF',
+    'AF_eas'
+]
+region_filter_arg:
+  [
+    'intronic',
+    'intron',
+    'intergenic',
+    'UTR5',
+    'UTR3',
+    'upstream',
+    'downstream',
+    'ncRNA_exonic',
+    'ncRNA_splicing',
+    'ncRNA_intronic',
+    'ncRNA_UTR5',
+    'ncRNA_UTR3'
+]
+function_filter_arg:
+  [
+    'synonymous SNV'
+]

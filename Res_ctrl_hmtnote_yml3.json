@@ -1,0 +1,56 @@
+{
+  "Output_name": [
+    "C39",
+    "C4",
+    "C40",
+    "C41",
+    "C42",
+    "C43",
+    "C44",
+    "C45",
+    "C46",
+    "C47"
+  ],
+  "vcf_gz": [
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C39/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap76-19R50888.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C4/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap05-19R50858.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C40/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap61-19R50889.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C41/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap77-19R50890.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C42/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap80-19R50891.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C43/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap64-19R50892.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C44/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap66-19R50893.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C45/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap79-19R50894.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C46/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap81-19R50895.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C47/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap83-19R50896.raw.vcf.gz"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "Output_name": [
+    "C57",
+    "C58",
+    "C59",
+    "C6",
+    "C60",
+    "C7",
+    "C9",
+    "CF-C-32"
+  ],
+  "vcf_gz": [
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C57/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap24-19R50906.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C58/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap92-19R50907.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C59/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap100-19R50908.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C6/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap02-19R50860.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C60/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap103-19R50909.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C7/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap30-19R50861.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/C9/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap17-19R50862.raw.vcf.gz"
+    },
+    {
+      "class": "File",
+      "path": "/mnt/datashare/home/wangzesong/HAPE/MT/MT_DNA_seqencing/Res_ctrl/CF-C-32/Nova423-BJ0W19X52JX-19X31001-T033-AA-20191125cap47-19R50912.raw.vcf.gz"
+    }
+  ]
+}
